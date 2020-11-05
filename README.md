@@ -10,4 +10,7 @@ dependencies
 
 dev dependencies
 
-`npm i --save-dev nodemon`
+`npm i --save-dev dotenv nodemon`
+`npm run devStart`
+
+- mongodb instructions [here](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
